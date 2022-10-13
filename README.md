@@ -15,3 +15,5 @@ Phase 2 is to find the optimal regions using the method of steepest descent (MSD
 Phase 3 is to find the optimal point by conducting central component design (CCD) and using
 a second order response surface model (RSM). The estimated 95% confidence interval
 for the expected browsing time is also predicted in this phase. 
+## - Course Topic
+Experimental Design
